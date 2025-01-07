@@ -1,5 +1,5 @@
 # 💫 About Me
-👑 I'm Currently Working On Svelte Project.<br>😌 I'm Looking For A Job/Internship.<br>😎 I'm Currently Learning New Things.<br>😋 Thanks For Visiting.
+👑 I'm Currently Working On Sveltekit Project.<br>😌 I'm Looking For A Job/Internship.<br>😎 I'm Currently Learning New Things.<br>😋 Thanks For Visiting.
 
 
 ## 🌐 Socials
