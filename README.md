@@ -11,7 +11,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=AbhijeetDhikale007&theme=holi&hide_border=true&include_all_commits=false&count_private=false)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbhijeetDhikale007&theme=holi&hide_border=true)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijeetDhikale007&theme=holi&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=AbhijeetDhikale007&icon=0&color=0)](https://visitcount.itsvg.in)
-![Visitor Count](https://komarev.com/ghpvc/?username=AbhijeetDhikale007)
